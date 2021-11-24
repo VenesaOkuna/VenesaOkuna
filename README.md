@@ -4,7 +4,7 @@
 
 [![Twitter: @essasays](https://img.shields.io/twitter/follow/essasays?style=social)](https://twitter.com/essasays)
 [![Linkedin: Venesa Atieno](https://img.shields.io/badge/-venesa-atieno?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venesa-atieno/)](https://www.linkedin.com/in/venesa-atieno/)
-[![GitHub VenesaOkuna](https://img.shields.io/github/followers/VenesaOkuna-git add?label=follow&style=social)](https://github.com/VenesaOkuna)
+[![GitHub VenesaOkuna](https://img.shields.io/github/followers/VenesaOkuna?git add?label=follow&style=social)](https://github.com/VenesaOkuna)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
